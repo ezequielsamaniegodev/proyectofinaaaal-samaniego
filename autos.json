@@ -1,0 +1,52 @@
+[
+    {
+        "modelo":"BUGATTI CHIRON",
+        "precio":"18.999.999",
+        "stock":"1"
+    },
+    {
+        "modelo":"FERRARI SF90 STRADALE ",
+        "precio":"2.349.999",
+        "stock":"1"
+    },
+    {
+        "modelo":"FERRARI SF90 SPIDER",
+        "precio":"2.699.999",
+        "stock":"1"
+    },
+    {
+        "modelo":"LAMBORGHINI SIAN ROADSTER",
+        "precio":"17.499.000",
+        "stock":"1"
+    },
+    {
+        "modelo":"MCLAREN SPEEDTAIL",
+        "precio":"13.999.000",
+        "stock":"1"
+    },
+    {
+        "modelo":"PAGANI HUAYRA CARBON",
+        "precio":"12.500.000",
+        "stock":"1"
+    },
+    {
+        "modelo":"PORSCHE 918 SPYDER",
+        "precio":"6.299.000",
+        "stock":"1"
+    },
+    {
+        "modelo":"ROLLS ROYCE DAWN NOVITEC",
+        "precio":"2.749.000",
+        "stock":"1"
+    },
+    {
+        "modelo":"FERRARI 812",
+        "precio":"2.149.000",
+        "stock":"1"
+    },
+    {
+        "modelo":"MERCEDES BENZ SLS AMG",
+        "precio":"5.499.999",
+        "stock":"1"
+    }
+]
